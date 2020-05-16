@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://tavikukko365.sharepoint.com/sites/mobile-point/sitepages/home.aspx",
+      "pageUrl": "https://contoso.sharepoint.com/sites/sitecollection/sitepages/home.aspx",
       "customActions": {
         "fdf2cf79-0d3b-4735-8be4-579792a9e667": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "spScriptLinks": {
-      "pageUrl": "https://tavikukko365.sharepoint.com/sites/mobile-point/sitepages/home.aspx",
+      "pageUrl": "https://contoso.sharepoint.com/sites/sitecollection/sitepages/home.aspx",
       "customActions": {
         "fdf2cf79-0d3b-4735-8be4-579792a9e667": {
           "location": "ClientSideExtension.ApplicationCustomizer",
