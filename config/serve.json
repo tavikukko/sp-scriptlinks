@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://tavikukko365.sharepoint.com/sites/mobile-point/sitepages/home.aspx",
+      "customActions": {
+        "fdf2cf79-0d3b-4735-8be4-579792a9e667": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "spScriptLinks": {
+      "pageUrl": "https://tavikukko365.sharepoint.com/sites/mobile-point/sitepages/home.aspx",
+      "customActions": {
+        "fdf2cf79-0d3b-4735-8be4-579792a9e667": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SpScriptLinks"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="fdf2cf79-0d3b-4735-8be4-579792a9e667"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

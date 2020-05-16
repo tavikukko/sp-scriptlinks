@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpScriptLinks"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="fdf2cf79-0d3b-4735-8be4-579792a9e667">
+    </CustomAction>
+</Elements>
